@@ -1,5 +1,5 @@
 # RncFunction-getting-enabled-interfaces
-how to set enabled interfaces from "st RncFunction=1,IubLink=Iub_" along with proxy id 
+How to set enabled interfaces from "st RncFunction=1,IubLink=Iub_" along with proxy id 
 
 The following sample outputs under xxx.log files have been found and oper state == ENABLED proxy ids have been found out: 
 
